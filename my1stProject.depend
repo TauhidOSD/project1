@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1692023596 source:c:\users\88017\desktop\my1stproject\main.cpp
+	<iostream>
+	"myfristclass.h"
+
+1692023573 c:\users\88017\desktop\my1stproject\myfristclass.h
+	"myfristclass.h"
+
+1692023573 source:c:\users\88017\desktop\my1stproject\myfristclass.cpp
+	"myfristclass.h"
+	<iostream>
+
